@@ -33,7 +33,7 @@ public class TwentyFortyEightAndCupcakes {
         checkGameOver();           //update game after reset
     }
 
-    //return the CURRENT state of the board
+    //return the current state of the board
     public int[][] getBoard() {
         return board;
     }
